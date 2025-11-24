@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ore_farm:emerald",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "ore_farm:emerald_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:emerald"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ore_farm:poor_diamonds",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "ore_farm:diamond_shard"
+    }
+  },
+  "result": {
+    "item": "ore_farm:poor_diamond"
+  }
+}

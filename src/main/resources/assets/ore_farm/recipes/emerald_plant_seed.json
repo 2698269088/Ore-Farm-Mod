@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ore_farm:seeds",
+  "pattern": [
+    "YXY",
+    "XZX",
+    "YXY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "Y": {
+      "item": "minecraft:emerald"
+    },
+    "Z": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "ore_farm:emerald_plant_seed",
+    "count": 4
+  }
+}

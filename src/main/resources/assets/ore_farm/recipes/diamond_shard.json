@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ore_farm:diamond_shards",
+  "ingredients": [
+    {
+      "item": "ore_farm:poor_diamond"
+    }
+  ],
+  "result": {
+    "item": "ore_farm:diamond_shard",
+    "count": 9
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "ore_farm:poor_diamond"
+  },
+  "result": "minecraft:diamond",
+  "experience": 15.0
+}

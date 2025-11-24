@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ore_farm:seeds",
+  "pattern": [
+    "ZXZ",
+    "XZX",
+    "ZXZ"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "Z": {
+      "item": "minecraft:dye",
+      "data": 4
+    }
+  },
+  "result": {
+    "item": "ore_farm:lapis_shard_seed",
+    "count": 4
+  }
+}
