@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "ore_farm:blocks/lapis_crop_stage_0"
+    }
+}

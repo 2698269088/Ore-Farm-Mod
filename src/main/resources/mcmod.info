@@ -1,0 +1,16 @@
+[
+{
+  "modid": "orefarm",
+  "name": "Ore Farm",
+  "description": "This mods will help the lovers of the agriculture, you can farm anything without going under the surface",
+  "version": "1.0",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheCCB", "TheHacker000"],
+  "credits": "Ozge64",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

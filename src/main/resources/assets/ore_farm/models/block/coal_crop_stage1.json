@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "ore_farm:blocks/coal_crop_stage_1"
+    }
+}

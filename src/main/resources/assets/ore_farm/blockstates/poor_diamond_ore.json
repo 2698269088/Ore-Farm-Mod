@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "ore_farm:poor_diamond_ore" }
+    }
+}
