@@ -4,6 +4,7 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import top.mcocet.orefarm.gen.OreFarmOreGen;
+import top.mcocet.orefarm.handlers.SmeltingHandler;
 import top.mcocet.orefarm.init.BlockInit;
 import top.mcocet.orefarm.init.ItemInit;
 
@@ -21,6 +22,9 @@ public class RegistryHandler {
         ItemInit.init();
         ItemInit.register();
         GameRegistry.registerWorldGenerator(new OreFarmOreGen(), 0);
+        
+        // 注册烧制配方
+        SmeltingHandler.registerSmelting();
     }
 
     @SideOnly(Side.CLIENT)
