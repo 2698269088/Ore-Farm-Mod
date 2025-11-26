@@ -1,0 +1,7 @@
+{
+    "parent": "block/stem_fruit",
+    "textures": {
+        "stem": "ore_farm:blocks/coal_melon_stem",
+        "upperstem": "ore_farm:blocks/coal_melon_stem_fruit"
+    }
+}
