@@ -1,6 +1,7 @@
 item.poor_diamond.name=贫瘠钻石
 item.diamond_shard.name=钻石碎片
 item.emerald_shard.name=绿宝石碎片
+tile.poor_diamond_ore.name=贫瘠钻石矿石
 
 item.diamond_shard_seed.name=钻石植物种子
 item.emerald_shard_seed.name=绿宝石植物种子
@@ -18,6 +19,20 @@ item.gold_plant_seed.name=金矿石种子
 item.redstone_plant_seed.name=红石矿石种子
 item.lapis_plant_seed.name=青金石矿石种子
 
-tile.poor_diamond_ore.name=贫瘠钻石矿石
+tile.diamond_plant.name=钻石矿石植物
+tile.emerald_plant.name=绿宝石矿石植物
+tile.coal_plant.name=煤炭矿石植物
+tile.iron_plant.name=铁矿石植物
+tile.gold_plant.name=金矿石植物
+tile.redstone_plant.name=红石矿石植物
+tile.lapis_plant.name=青金石矿石植物
+
+tile.diamond_crop.name=钻石矿石作物
+tile.emerald_crop.name=绿宝石矿石植物
+tile.coal_crop.name=煤炭矿石植物
+tile.iron_crop.name=铁矿石植物
+tile.gold_crop.name=金矿石植物
+tile.redstone_crop.name=红石矿石植物
+tile.lapis_crop.name=青金石矿石植物
 
 itemGroup.orefarmtab=矿物农场

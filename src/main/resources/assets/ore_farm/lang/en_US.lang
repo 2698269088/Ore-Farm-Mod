@@ -1,6 +1,7 @@
 item.poor_diamond.name=Poor Diamond
 item.diamond_shard.name=Diamond Shard
 item.emerald_shard.name=Emerald Shard
+tile.poor_diamond_ore.name=Poor Diamond Ore
 
 item.diamond_shard_seed.name=Diamond Plant Seed
 item.emerald_shard_seed.name=Emerald Plant Seed
@@ -18,7 +19,20 @@ item.gold_plant_seed.name=Gold Ore Seed
 item.redstone_plant_seed.name=Redstone Ore Seed
 item.lapis_plant_seed.name=Lapis Lazuli Ore Seed
 
+tile.diamond_plant.name=Diamond Ore Plant
+tile.emerald_plant.name=Emerald Ore Plant
+tile.coal_plant.name=Coal Ore Plant
+tile.iron_plant.name=Iron Ore Plant
+tile.gold_plant.name=Gold Ore Plant
+tile.redstone_plant.name=Redstone Ore Plant
+tile.lapis_plant.name=Lapis Lazuli Ore Plant
 
-tile.poor_diamond_ore.name=Poor Diamond Ore
+tile.diamond_crop.name=Diamond Ore Crop
+tile.emerald_crop.name=Emerald Ore Crop
+tile.coal_crop.name=Coal Ore Crop
+tile.iron_crop.name=Iron Ore Crop
+tile.gold_crop.name=Gold Ore Crop
+tile.redstone_crop.name=Redstone Ore Crop
+tile.lapis_crop.name=Lapis Lazuli Ore Crop
 
 itemGroup.orefarmtab=Ore Farm
