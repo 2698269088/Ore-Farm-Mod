@@ -1,6 +1,0 @@
-{
-    "parent": "block/crop",
-    "textures": {
-        "crop": "ore_farm:blocks/redstone_crop_stage_3"
-    }
-}
