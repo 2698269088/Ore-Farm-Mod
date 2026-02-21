@@ -3,6 +3,7 @@ package top.mcocet.orefarm.handlers;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
+import top.mcocet.orefarm.compat.ModCompatibility;
 import top.mcocet.orefarm.gen.OreFarmOreGen;
 import top.mcocet.orefarm.handlers.SmeltingHandler;
 import top.mcocet.orefarm.init.BlockInit;
@@ -45,6 +46,18 @@ public class RegistryHandler {
         BlockInit.registerRender(BlockInit.gold_plant);
         BlockInit.registerRender(BlockInit.redstone_plant);
         BlockInit.registerRender(BlockInit.lapis_plant);
+        
+        // 只有在IC2模组存在时才注册IC2方块的渲染
+        if (ModCompatibility.isIC2Loaded()) {
+            BlockInit.registerRender(BlockInit.copper_crop);
+            BlockInit.registerRender(BlockInit.tin_crop);
+            BlockInit.registerRender(BlockInit.lead_crop);
+            BlockInit.registerRender(BlockInit.uranium_crop);
+            BlockInit.registerRender(BlockInit.copper_plant);
+            BlockInit.registerRender(BlockInit.tin_plant);
+            BlockInit.registerRender(BlockInit.lead_plant);
+            BlockInit.registerRender(BlockInit.uranium_plant);
+        }
 
         // 注册物品的渲染
         ItemInit.registerRender(ItemInit.poor_diamond);
@@ -64,5 +77,17 @@ public class RegistryHandler {
         ItemInit.registerRender(ItemInit.gold_plant_seed);
         ItemInit.registerRender(ItemInit.redstone_plant_seed);
         ItemInit.registerRender(ItemInit.lapis_plant_seed);
+        
+        // 只有在IC2模组存在时才注册IC2物品的渲染
+        if (ModCompatibility.isIC2Loaded()) {
+            ItemInit.registerRender(ItemInit.copper_shard_seed);
+            ItemInit.registerRender(ItemInit.tin_shard_seed);
+            ItemInit.registerRender(ItemInit.lead_shard_seed);
+            ItemInit.registerRender(ItemInit.uranium_shard_seed);
+            ItemInit.registerRender(ItemInit.copper_plant_seed);
+            ItemInit.registerRender(ItemInit.tin_plant_seed);
+            ItemInit.registerRender(ItemInit.lead_plant_seed);
+            ItemInit.registerRender(ItemInit.uranium_plant_seed);
+        }
     }
 }

@@ -20,7 +20,7 @@ import top.mcocet.orefarm.tabs.OreFarmTab;
 @Mod(
         modid = "ore_farm",
         name = "Ore Farm",
-        version = "1.0",
+        version = "1.2",
         acceptedMinecraftVersions = "[1.12.2]"
 )
 public class OreFarm {
