@@ -1,0 +1,25 @@
+itemGroup.tab_ore_farm=Ore Farm
+
+tile.ore_farm.lapis_stem.name=Lapis-Ore Stem
+item.ore_farm.lapis_seeds.name=Lapis-Ore Seeds
+tile.ore_farm.coal_stem.name=Coal-Ore Stem
+item.ore_farm.coal_seeds.name=Coal-Ore Seeds
+tile.ore_farm.diamond_stem.name=Diamond-Ore Stem
+item.ore_farm.diamond_seeds.name=Diamond-Ore Seeds
+tile.ore_farm.emerald_stem.name=Emerald-Ore Stem
+item.ore_farm.emerald_seeds.name=Emerald-Ore Seeds
+tile.ore_farm.gold_stem.name=Gold-Ore Stem
+item.ore_farm.gold_seeds.name=Gold-Ore Seeds
+tile.ore_farm.iron_stem.name=Iron-Ore Stem
+item.ore_farm.iron_seeds.name=Iron-Ore Seeds
+tile.ore_farm.redstone_stem.name=Redstone-Ore Stem
+item.ore_farm.redstone_seeds.name=Redstone-Ore Seeds
+
+tile.ore_farm.copper_stem.name=Copper-Ore Stem
+item.ore_farm.copper_seeds.name=Copper-Ore Seeds
+tile.ore_farm.tin_stem.name=Tin-Ore Stem
+item.ore_farm.tin_seeds.name=Tin-Ore Seeds
+tile.ore_farm.lead_stem.name=Lead-Ore Stem
+item.ore_farm.lead_seeds.name=Lead-Ore Seeds
+tile.ore_farm.uranium_stem.name=Uranium-Ore Stem
+item.ore_farm.uranium_seeds.name=Uranium-Ore Seeds

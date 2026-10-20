@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SBS",
+    "SSS"
+  ],
+  "key": {
+    "S": { "item": "minecraft:wheat_seeds" },
+    "B": { "item": "minecraft:lapis_block" }
+  },
+  "result": { "item": "ore_farm:lapis_seeds", "count": 1 }
+}

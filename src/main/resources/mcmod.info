@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ore_farm",
+  "name": "Ore Farm Mod",
+  "description": "Plant ore seeds on farmland; the mature stem grows the matching ore block beside it, just like melons and pumpkins. Ported from Plants-To-Ores.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MCOCET"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

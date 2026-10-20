@@ -1,0 +1,16 @@
+{
+  "multipart": [
+    { "when": { "age": 0 }, "apply": { "model": "ore_farm:emerald_stem_growth0" } },
+    { "when": { "age": 1 }, "apply": { "model": "ore_farm:emerald_stem_growth1" } },
+    { "when": { "age": 2 }, "apply": { "model": "ore_farm:emerald_stem_growth2" } },
+    { "when": { "age": 3 }, "apply": { "model": "ore_farm:emerald_stem_growth3" } },
+    { "when": { "age": 4 }, "apply": { "model": "ore_farm:emerald_stem_growth4" } },
+    { "when": { "age": 5 }, "apply": { "model": "ore_farm:emerald_stem_growth5" } },
+    { "when": { "age": 6 }, "apply": { "model": "ore_farm:emerald_stem_growth6" } },
+    { "when": { "age": 7, "facing": "up" }, "apply": { "model": "ore_farm:emerald_stem_growth7" } },
+    { "when": { "age": 7, "facing": "west" }, "apply": { "model": "ore_farm:emerald_stem_fruit" } },
+    { "when": { "age": 7, "facing": "east" }, "apply": { "model": "ore_farm:emerald_stem_fruit", "y": 180 } },
+    { "when": { "age": 7, "facing": "north" }, "apply": { "model": "ore_farm:emerald_stem_fruit", "y": 90 } },
+    { "when": { "age": 7, "facing": "south" }, "apply": { "model": "ore_farm:emerald_stem_fruit", "y": 270 } }
+  ]
+}

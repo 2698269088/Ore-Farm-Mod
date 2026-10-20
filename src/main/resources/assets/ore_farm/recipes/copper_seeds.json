@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SBS",
+    "SSS"
+  ],
+  "key": {
+    "S": { "item": "minecraft:wheat_seeds" },
+    "B": { "type": "forge:ore_dict", "ore": "blockCopper" }
+  },
+  "result": { "item": "ore_farm:copper_seeds", "count": 1 }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SBS",
+    "SSS"
+  ],
+  "key": {
+    "S": { "item": "minecraft:wheat_seeds" },
+    "B": { "type": "forge:ore_dict", "ore": "blockUranium" }
+  },
+  "result": { "item": "ore_farm:uranium_seeds", "count": 1 }
+}
