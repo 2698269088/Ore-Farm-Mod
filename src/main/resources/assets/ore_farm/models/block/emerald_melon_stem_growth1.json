@@ -1,6 +1,0 @@
-{
-    "parent": "block/stem_growth1",
-    "textures": {
-        "stem": "ore_farm:blocks/emerald_melon_stem"
-    }
-}
